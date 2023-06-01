@@ -1,0 +1,333 @@
+html{
+    font-size: 62,5%;
+}
+body{
+    background-color: #778DA9;
+    margin-left: 0px;       
+    margin-right: 0px;
+    overflow-x: hidden;
+}
+.Menu{
+    text-align: center;
+    list-style-type: none;
+    clear: both;
+    width: 100%;
+    list-style: none;
+    margin: 0px;
+    padding: 40;
+    display: block;
+}
+.logo{
+    width: 1000px;
+    height: 1000px;
+}
+.Foto10{
+    width: 95%;
+    margin-top: -130px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 30px;
+}
+.TextoFoto{
+    position: relative;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 100px;
+}
+.Navegacion{
+    font-weight: bold;
+    display:inline;
+    padding-right: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    margin: 40px;
+    font-size: 15px;
+    font-family: 'Playfair Display', serif;
+}
+div{
+    margin-top: 50px;
+}
+p{  
+    font-size: 10px;
+    margin: 35px;
+    text-align:justify;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+header{
+    background-size: 90px;
+    background-color: #e0e1dd;
+}
+h1{
+    font-size: 25px;
+    text-align: center;
+    color: #1b263b;
+    text-decoration: underline;
+    font-family: 'Playfair Display semi bold 600', serif;
+    padding: 20px;
+}
+h2{
+    text-align: center;
+}
+.Fotos{
+     width: 250px;
+     height: 180px;
+     display: inline-block;
+     padding: 0%;
+     border-style: groove;
+     margin-left: 75px;
+     text-align: center;
+    }
+h3{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+    margin-bottom: 80px;
+}
+.Texto{
+    font-size: 15px;
+    margin-left: 30px;
+    margin-right: 100px;
+    color: rgb(2, 2, 131);
+    font-weight: bold;
+    padding: 30px;
+    margin-top: 0px;  
+    text-align: center; 
+}
+section{
+    border-style: groove;
+    margin: 80px;
+}
+h4{
+    text-align: center;
+    font-family: 'Playfair Display semi bold 600', serif;
+    }
+aside{
+    overflow: auto;
+    border-style:dotted;
+    color: rgb(2, 2, 61);
+    text-align: center;
+    margin: 150px 400px 70px 400px;
+    font-size: 25px;
+}
+footer{
+    background-color: #e0e1dd;
+    background-size: 100%;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100px;
+    margin-bottom: 120px;
+    margin-top: 35px;
+}
+.alinear{
+    display: inline;
+    padding: 15px;
+    
+}
+.bajar{
+    display: block;
+    margin-left: 15px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+.p2{
+    text-align: left;
+    margin: 0px 0px 20px 15px;
+    font-size: 20px;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+}
+form{
+    padding: 20px;
+    border: solid black;
+    width: 370px;
+    margin-left: 500px;
+    margin-top: 150px;
+}
+.edad{
+    font-size: 15px;
+    color: black;
+    text-align: left;
+    margin-left: 35px;
+    margin-bottom: 10px;
+    display: inline;
+    margin-right: 0px;
+}
+select{
+    padding-left: 5px;
+    margin-left: 13px;
+    
+}
+.mensaje{
+   font-size: 18px;
+   margin-left: 124px;
+   text-align: center;
+   font-weight: bold;
+}
+.recuadro{
+    margin: 20px 20px 20px 60px;
+    padding: 40px;
+    text-align: center;
+    border: solid rgb(8, 8, 126);
+   
+}
+.Enviar{
+    margin: 30px 20px 5px 220px;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.Amsterdam{
+    font-size: 50%;
+    margin: 35px 25px 10px 105px;
+    padding: 10px;
+    width: 80%;
+    display: block;
+    border: solid rgb(10, 10, 117);
+    text-align: center;
+}
+.P3{
+    font-size: 15px;
+    color: black;
+    margin-left: 77%;
+    margin-top: 0px;
+}
+.h41{
+    text-align: center;
+    margin-top: 50px;
+}
+.footer1{
+    margin: 20px;
+    padding: 20px;
+    height: 25%;
+}
+.h5{
+    font-size: 30px;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 5px;
+    margin-top: 1%;
+}
+.p3{
+    color: rgb(4, 4, 113);
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Playfair Display semi bold 600', serif;
+    margin-top: 5px;
+}
+.borde{
+    border: solid rgb(3, 3, 129);
+    text-align: center;
+}
+ol{
+    padding: 50px;
+    margin-left: 50px;
+}
+.top3{
+    padding: 50px;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-top: 5px;
+}
+.margen2{
+    margin-left: 100px;
+}
+.p5{
+    font-size: 20px;
+    margin-left: 5px;
+    color: rgb(5, 5, 147);
+    margin-bottom: 5px;
+}
+.Videos{
+    padding: 5%;
+    text-align: center;
+}
+.margen3{
+    width: 350px;
+    height: 350px;
+    margin-left: 150px;
+    padding: 60px;
+}
+.margen4{
+    width: 350px;
+    height: 350px;
+    padding: 150px;
+}
+.footer2{
+    background-color: #e0e1dd;
+    background-size: 100%;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100px;
+    margin-bottom: 120px;
+    margin-top: 35px;
+}
+.p7{
+    font-size: 25px;
+    text-align: center;
+    color: #415a77;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+}
+.spotify{
+    width: 850px;
+    height: 190px;
+    padding: 60px;
+    margin-left: 160px;
+}
+.sectionn{
+    padding: 0px;
+    margin-bottom: 150px;
+    border: solid rgb(38, 38, 114);
+}
+.texto1{
+    font-size: 15px;
+    margin-left: 30px;
+    margin-right: 100px;
+    color: rgb(2, 2, 131);
+    font-weight: bold;
+    padding: 30px;
+    margin-top: 0px;
+}
+.galeria{
+    width: 280px;
+    height: 250px;
+    padding: 30px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.volver{
+    margin-left: 1300px;
+    padding: 5px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+h6{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Playfair Display semi bold 600', serif;
+    color:rgb(1, 1, 42);
+    text-decoration: underline;
+}  
+
+
+/* PRACTICA */
+
+.flex{
+    border: solid black;
+    margin: 15px;
+    width: 80px;
+    height: 80px;
+}
+
+.Box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
