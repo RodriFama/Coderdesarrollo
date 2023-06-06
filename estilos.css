@@ -311,23 +311,7 @@ h6{
     text-align: center;
     font-size: 35px;
     font-family: 'Playfair Display semi bold 600', serif;
-    color:rgb(1, 1, 42);
+    color:rgb(0, 0, 11);
     text-decoration: underline;
 }  
-
-
-/* PRACTICA */
-
-.flex{
-    border: solid black;
-    margin: 15px;
-    width: 80px;
-    height: 80px;
-}
-
-.Box{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-}
 
