@@ -418,12 +418,23 @@ h6{
     margin-left: 300px;
     height: 425px;
 }
+.fuentes{
+    font-size: 18px;
+    margin-left: 155px;
+}
+
 @media screen and (max-width: 500px){   
     .tex{
-        display: none;
+        font-size: 20px;
     }
     .TextoFoto{
         font-size: 10px;
+    }
+    header{
+        width: 100%;
+    }
+    .navbar{
+        
     }
     .viajar{
         font-size: 20px;
@@ -435,6 +446,7 @@ h6{
     }
     .Texto{
         font-size: 10px;
+        border: none;
     }
     .P3{
         display: none;
@@ -451,9 +463,6 @@ h6{
     .movil2{
         margin-left: 45px;
     }
-    nav{
-        background-color:#778DA9;
-    }
     .movil{
         display: none;
     }
@@ -463,18 +472,33 @@ h6{
     }
     footer{
         width: 100%;
-        margin-left: 8px;
+        
     }
     .borde{
         width: 100%;
         margin-left: 1px;
     }
     .grid2{
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
-        grid-template-rows: 1fr;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(4, 1fr);
+        justify-content: center;
+        margin-left: 55px;
+
+    }
+    aside{
+        display: none;
+    }
+    .volver{
+        display: none;
     }
 
+
+
+    
+}
+@media screen and(max-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows:repeat(2, 1fr) ;
     
 }
 
