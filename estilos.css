@@ -309,12 +309,11 @@ h6{
     text-decoration: underline;
     margin-top: 100px;
 }  
-.grid1{
+.grid5{
     display:grid;
     grid-template-columns: 25% 25% 25% 25%;
     grid-template-rows: 20% 20% 20% 20% 20%;
-    margin: 10px;
-    padding: 5%;
+    padding: 5%; 
 }
 .pic1{
     border-radius: 10px;
@@ -407,7 +406,6 @@ h6{
     margin-top: 0px;
     color: black;  
 }
-
 .grid3{
     display: grid;
     grid-template-columns: 50% 50%;
@@ -422,6 +420,68 @@ h6{
     font-size: 18px;
     margin-left: 155px;
 }
+
+@media screen and (max-width: 768px){
+    .headerr {
+        width: 125%;
+        margin: 0px 0px 0px 3px;
+    }
+    .movil2{
+        margin-left: 130px;
+    }
+    .Amsterdam{
+        width: 860px;
+        margin-left: 20px;
+    }
+    .P3{
+        font-size: 10px;
+        margin-left: 790px;
+     }
+     .borde{
+        margin-top: 100px;
+        margin-left: 250px;
+     }
+     .movil4{
+        margin-left: 230px;
+        width: 60%;
+     }
+     .footer2{
+        width: 126%;
+        margin-bottom: 0px;
+     }
+     .TextoFoto{
+        font-size: 15px;
+     }
+     .Texto5{
+        font-size: 18px;
+     }
+     .Texto{
+        font-size: 15px;
+        text-align: justify;
+     }
+     .grid2{
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(4, 1fr);
+        margin-left: 160px;
+     }
+     .pie{
+        width: 100%;
+     }
+     .lateral{
+        width: 75%;
+        margin-left: 90px;
+        padding: 15px;
+     }
+     .volver{
+        margin-left: 20px;
+     }
+
+
+     }
+
+    
+
+    
 
 @media screen and (max-width: 500px){ 
     .grid2{
@@ -451,12 +511,63 @@ h6{
     footer{
         margin-bottom: 0px;
     }
+    .pic14{
+        display: none;
+    }
+    .pic12{
+        display: none;
+    }
+    .pic11{
+        display: none;
+    }
+    .pic13{
+        display: none;
+    }
+    .grid5{
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(11, 1fr);
+    }
+    .mov{
+        width: 150px;
+        height: 180px;
+        padding: 5%;
+    }
+    .sectionn{
+        width: 80%;
+        margin-left: 50px;
+    }
+    .spotify{
+        width: 90%;
+        margin-left: 20px;
+    }
+    .texto1{
+        text-align: center;
+    }
+    .Amsterdam {
+        width: 415px;
+        margin-left: 40px;
+    }
+    .P3{
+        font-size: 6px;
+    }
+    .movil4{
+        margin-left: 25px;
+        width: 90%;
+    }
+    .footer2{
+        margin-bottom: 0px;
+    }
+    
+
+    
+}
+    
     
 
  
 
     
-}
+
 
 
 
