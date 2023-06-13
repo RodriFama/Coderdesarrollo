@@ -409,7 +409,7 @@ h6{
 .grid3{
     display: grid;
     grid-template-columns: 50% 50%;
-    grid-template-rows: %33 %33 %33;
+    grid-template-rows: 33% 33% 33%;
 }
 .Video1{
     width: 800px;
@@ -475,14 +475,7 @@ h6{
      .volver{
         margin-left: 20px;
      }
-
-
      }
-
-    
-
-    
-
 @media screen and (max-width: 500px){ 
     .grid2{
         grid-template-columns: 1fr;
@@ -557,9 +550,6 @@ h6{
     .footer2{
         margin-bottom: 0px;
     }
-    
-
-    
 }
     
     
