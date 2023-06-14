@@ -553,7 +553,8 @@ h6{
         margin-left: 40px;
     }
     .P3{
-        font-size: 6px;
+        font-size: 10gitpx;
+        margin-left: 40px;
     }
     .movil4{
         margin-left: 25px;
@@ -561,6 +562,20 @@ h6{
     }
     .footer2{
         margin-bottom: 0px;
+        width: 486px;
+    }
+    .borde{
+        width: 75%;
+        margin-left: 55px;
+    }
+    .movil2{
+        margin-left: 35px;
+    }
+    .tex{
+        margin-left: -120px;
+    }
+    .container-fluid{
+        width: 75%;
     }
 }
     
