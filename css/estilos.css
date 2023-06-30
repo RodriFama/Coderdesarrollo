@@ -1,0 +1,532 @@
+html {
+  font-size: 62, 5%;
+}
+
+body {
+  background-color: #778DA9;
+  margin-left: 0px;
+  margin-right: 0px;
+  overflow-x: hidden;
+}
+
+div .azul {
+  background-color: #778DA9;
+  margin: 0px;
+}
+div .container-fluid {
+  background-color: #778DA9;
+  margin: 0px;
+}
+div .grid2 {
+  display: grid;
+  grid-template-columns: repeat(4, 25%);
+  grid-template-rows: auto;
+}
+div .Volver {
+  margin-left: 1300px;
+  padding: 5px;
+  font-weight: bolder;
+  text-decoration: underline;
+}
+div .Amsterdam {
+  font-size: 50%;
+  margin: 35px 25px 10px 105px;
+  padding: 10px;
+  width: 80%;
+  display: block;
+  border: solid rgb(10, 10, 117);
+  text-align: center;
+}
+div .P3 {
+  font-size: 15px;
+  color: black;
+  margin-left: 77%;
+}
+div .Enviar {
+  margin: 30px 20px 5px 220px;
+  padding: 10px;
+  font-size: 15px;
+  font-weight: bold;
+}
+div .mensaje {
+  font-size: 18px;
+  margin-left: 124px;
+  text-align: center;
+  font-weight: bold;
+}
+div .recuadro {
+  margin: 20px 20px 20px 60px;
+  padding: 40px;
+  text-align: center;
+  border: solid rgb(8, 8, 126);
+}
+div .grid3 {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 33% 33% 33%;
+}
+div .Videos {
+  padding: 5%;
+  text-align: center;
+  margin-left: 75px;
+}
+div .Video1 {
+  width: 800px;
+  margin-left: 300px;
+  height: 425px;
+}
+div .grid5 {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+  padding: 5%;
+}
+div .pic1 {
+  border-radius: 10px;
+  width: 650px;
+  height: 325px;
+  grid-column: 1/3;
+}
+div .pic3 {
+  border-radius: 10px;
+  width: 325px;
+  height: 325px;
+}
+div .pic4 {
+  border-radius: 10px;
+  width: 325px;
+  height: 325px;
+}
+div .pic5 {
+  border-radius: 10px;
+  width: 325px;
+  height: 325px;
+}
+div .pic6 {
+  border-radius: 10px;
+  width: 650px;
+  height: 325px;
+  grid-column: 2/4;
+}
+div .pic8 {
+  border-radius: 10px;
+  width: 325px;
+  height: 325px;
+}
+div .pic9 {
+  border-radius: 10px;
+  width: 650px;
+  height: 325px;
+  align-self: center;
+  grid-column: 1/3;
+}
+div .pic10 {
+  border-radius: 10px;
+  width: 650px;
+  height: 325px;
+  align-self: center;
+  grid-column: 3/5;
+}
+div .pic11 {
+  border-radius: 10px;
+  width: 1300px;
+  height: 325px;
+}
+div .pic12 {
+  border-radius: 10px;
+  width: 650px;
+  height: 325px;
+  grid-column: 1/3;
+}
+div .pic13 {
+  border-radius: 10px;
+  width: 650px;
+  height: 325px;
+  grid-column: 3/5;
+}
+div .pic14 {
+  border-radius: 10px;
+  width: 800px;
+  height: 325px;
+  margin-left: 350px;
+  margin-bottom: 100px;
+}
+div .top3 {
+  padding: 50px;
+  font-size: 25px;
+  font-weight: bolder;
+  margin-top: 5px;
+}
+div .margen2 {
+  margin-left: 100px;
+}
+div .margen3 {
+  width: 350px;
+  height: 350px;
+  margin-left: 150px;
+  padding: 60px;
+}
+div .margen4 {
+  width: 350px;
+  height: 350px;
+  padding: 150px;
+}
+div .card {
+  background-color: #778DA9;
+  border-radius: 20px;
+  margin-left: 30px;
+}
+div .card-text {
+  font-size: 16px;
+  text-align: center;
+  margin-top: 0px;
+}
+
+main .TextoFoto {
+  position: relative;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 100px;
+}
+main .Foto10 {
+  width: 95%;
+  margin-top: -130px;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+  padding: 30px;
+}
+
+section .Texto5 {
+  font-size: 20px;
+}
+section .Texto {
+  font-size: 20px;
+  margin-left: 30px;
+  margin-right: 100px;
+  color: rgb(2, 2, 131);
+  font-weight: bold;
+  padding: 30px;
+  margin-top: 0px;
+  text-align: center;
+}
+section .borde {
+  border: solid rgb(3, 3, 129);
+  text-align: center;
+}
+section .h5 .p3 {
+  color: rgb(4, 4, 113);
+  font-size: 20px;
+  text-align: center;
+  font-family: "Playfair Display semi bold 600", serif;
+  margin-top: 5px;
+}
+section .sectionn {
+  padding: 0px;
+  margin-bottom: 150px;
+  border: solid rgb(38, 38, 114);
+}
+section .p7 {
+  font-size: 25px;
+  text-align: center;
+  color: #415a77;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-bottom: 20px;
+}
+section .spotify {
+  width: 850px;
+  height: 200px;
+  padding: 60px;
+  margin-left: 160px;
+}
+
+Footer .footer2 {
+  background-color: #e0e1dd;
+  background-size: 100%;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100px;
+  margin-bottom: 120px;
+  margin-top: 35px;
+}
+Footer .texto1 {
+  font-size: 15px;
+  margin-left: 30px;
+  margin-right: 100px;
+  color: rgb(2, 2, 131);
+  font-weight: bold;
+  padding: 30px;
+  margin-top: 0px;
+}
+Footer .footer1 {
+  margin: 20px;
+  padding: 20px;
+  height: 25%;
+}
+
+form .p2 {
+  text-align: left;
+  margin: 0px 0px 20px 15px;
+  font-size: 20px;
+  color: black;
+  font-weight: bolder;
+  text-align: center;
+}
+form .alinear {
+  display: inline;
+  padding: 15px;
+}
+form .edad {
+  font-size: 15px;
+  color: black;
+  text-align: left;
+  margin-left: 35px;
+  margin-bottom: 10px;
+  display: inline;
+  margin-right: 0px;
+}
+form .select {
+  padding-left: 5px;
+  margin-left: 13px;
+}
+form .mensaje {
+  font-size: 18px;
+  margin-left: 124px;
+  text-align: center;
+  font-weight: bold;
+}
+form .recuadro {
+  margin: 20px 20px 20px 60px;
+  padding: 40px;
+  text-align: center;
+  border: solid rgb(8, 8, 126);
+}
+form .Enviar {
+  margin: 30px 20px 5px 220px;
+  padding: 10px;
+  font-size: 15px;
+  font-weight: bold;
+}
+form p {
+  font-size: 10px;
+  margin: 35px;
+  text-align: justify;
+  color: white;
+}
+form a {
+  text-decoration: none;
+  color: black;
+}
+form header {
+  background-size: 90px;
+  background-color: #778DA9;
+}
+form h1 {
+  font-size: 25px;
+  text-align: center;
+  color: #1b263b;
+  text-decoration: underline;
+  font-family: "Playfair Display semi bold 600", serif;
+  padding: 0px;
+  margin-bottom: 10px;
+}
+form h2 {
+  text-align: center;
+}
+form h3 {
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-size: 25px;
+  margin-bottom: 80px;
+}
+form section {
+  border-style: groove;
+  margin: 80px;
+}
+form h4 {
+  text-align: center;
+  font-family: "Playfair Display semi bold 600", serif;
+}
+form aside {
+  overflow: auto;
+  border-style: dotted;
+  color: rgb(2, 2, 61);
+  text-align: center;
+  margin: 150px 400px 70px 400px;
+  font-size: 25px;
+}
+form footer {
+  background-color: #e0e1dd;
+  background-size: 100%;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100px;
+  margin-bottom: 0px;
+  margin-top: 35px;
+}
+form form {
+  padding: 20px;
+  border: solid black;
+  width: 370px;
+  margin-left: 500px;
+  margin-top: 150px;
+}
+form .h5 {
+  font-size: 30px;
+  text-align: center;
+  padding: 60px;
+  margin-bottom: 5px;
+  margin-top: 10%;
+}
+form ol {
+  padding: 50px;
+  margin-left: 50px;
+}
+
+@media screen and (max-width: 768px) {
+  .headerr {
+    width: 125%;
+    margin: 0px 0px 0px 3px;
+  }
+  .movil2 {
+    margin-left: 130px;
+  }
+  .Amsterdam {
+    width: 860px;
+    margin-left: 20px;
+  }
+  .P3 {
+    font-size: 10px;
+    margin-left: 790px;
+  }
+  .borde {
+    margin-top: 100px;
+    margin-left: 250px;
+  }
+  .movil4 {
+    margin-left: 230px;
+    width: 60%;
+  }
+  .footer2 {
+    width: 126%;
+    margin-bottom: 0px;
+  }
+  .TextoFoto {
+    font-size: 15px;
+  }
+  .Texto5 {
+    font-size: 18px;
+  }
+  .Texto {
+    font-size: 15px;
+    text-align: justify;
+  }
+  .grid2 {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(4, 1fr);
+    margin-left: 160px;
+  }
+  .pie {
+    width: 100%;
+  }
+  .lateral {
+    width: 75%;
+    margin-left: 90px;
+    padding: 15px;
+  }
+  .volver {
+    margin-left: 20px;
+  }
+}
+@media screen and (max-width: 500px) {
+  .grid2 {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(4, 1fr);
+    margin-left: 70px;
+  }
+  .TextoFoto {
+    font-size: 10px;
+  }
+  .headerr {
+    background-color: #778DA9;
+  }
+  .Texto5 {
+    font-size: 15px;
+  }
+  .Texto {
+    font-size: 18px;
+    margin-right: 15px;
+  }
+  .lateral {
+    display: none;
+  }
+  .volver {
+    margin-left: 15px;
+  }
+  footer {
+    margin-bottom: 0px;
+  }
+  .pic14 {
+    display: none;
+  }
+  .pic12 {
+    display: none;
+  }
+  .pic11 {
+    display: none;
+  }
+  .pic13 {
+    display: none;
+  }
+  .grid5 {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(11, 1fr);
+  }
+  .mov {
+    width: 150px;
+    height: 180px;
+    padding: 5%;
+  }
+  .sectionn {
+    width: 80%;
+    margin-left: 50px;
+  }
+  .spotify {
+    width: 90%;
+    margin-left: 20px;
+  }
+  .texto1 {
+    text-align: center;
+  }
+  .Amsterdam {
+    width: 415px;
+    margin-left: 40px;
+  }
+  .P3 {
+    font-size: 15dpx;
+    margin-left: 40px;
+  }
+  .movil4 {
+    margin-left: 25px;
+    width: 90%;
+  }
+  .footer2 {
+    margin-bottom: 0px;
+    width: 486px;
+  }
+  .borde {
+    width: 75%;
+    margin-left: 55px;
+  }
+  .movil2 {
+    margin-left: 35px;
+  }
+  .tex {
+    margin-left: -120px;
+  }
+  .container-fluid {
+    width: 75%;
+  }
+}
+
+/*# sourceMappingURL=estilos.css.map */
